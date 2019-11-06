@@ -2,6 +2,8 @@
 
 Utilizes the National Household Travel Survey dataset to make predictions on traffic congestion, vehicle ownership, etc...
 
+Also shows the results of Transfer Learning between different states data through a similarity matrix.
+
 
 ## How to use:
 
@@ -15,11 +17,11 @@ https://nhts.ornl.gov/downloads
 
 ### Run the preprocessing:
 
-NHST Preprocessing.ipynb
+Preprocess States.ipynb
 
 ### Run the Neural Network:
 
-Feedforward without processing.ipynb
+aggregated_Transfer_Learning.ipynb
 
 ### trafficStaticstics.ipynb
 
